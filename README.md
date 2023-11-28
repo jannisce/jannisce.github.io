@@ -1,1 +1,3 @@
-# jannisce.github.io
+# My personal portfolio
+
+jannisce.com
